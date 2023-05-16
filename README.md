@@ -1,27 +1,28 @@
-# Projectudemy
+Home Page :
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/4bdc5839-745f-4d1c-abda-cb40ba7b4f17)
+Select the Recipes :
 
-## Development server
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/e7d4c4ab-71c9-4540-9527-a62c3d01dde5)
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/eff36c4b-9aca-4135-8c86-92f9e90e0d51)
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/fdca5dd9-81b3-40fa-8ff6-7b8a4737a98d)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Add New Recipe:
 
-## Code scaffolding
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/c7b90cee-fbb8-4018-964d-adb6a92c6e1c)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Manage Recipe:
 
-## Build
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/9a528e04-f15f-4c29-a38d-5c1df37684d6)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Edit Recipe:
 
-## Running unit tests
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/9e5504cf-934a-465c-96a4-cf597fa22b7f)
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/fafca399-5131-4cec-9ec2-76fb1f72f2ad)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+Shopping-list :
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/c828589b-88d0-40a1-b0f8-8c4c278fd66b)
+![image](https://github.com/chandanamn3/Recipes-ShoppingAngularProject/assets/75359245/d904994b-4eb8-4be5-9f14-9ae8b002bbf2)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
